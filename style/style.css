@@ -2,15 +2,16 @@ html {
 
 }
 body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gil   l Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
     background-color: blueviolet;
     margin: 0;
     padding: 0;
-    
+    background-image: url("/img/background.png")
 }
 
 .navigation {
-    background-color: darkmagenta;
+    background-color: black;
     float: right;
     text-transform: uppercase;
 
